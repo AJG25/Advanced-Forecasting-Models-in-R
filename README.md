@@ -26,13 +26,5 @@ This project focuses on advanced time series forecasting using various models, i
 - Box-Cox transformation
 - Forecast accuracy evaluation (RMSE, MAE)
 
-## Structure
-- `.Rmd` notebook with full analysis, plots, and commentary.
-- `.R` script for the forecasting pipeline.
-- Visual outputs: trend lines, residual plots, decomposition graphs, forecast intervals.
-
-## Skills Demonstrated
-- Advanced forecasting and model comparison
-- Time series transformation and stationarity testing
-- Interpretation of residuals and diagnostics
-- Communication of statistical results through visualizations
+## Key Takeaways
+This project showcases the application of advanced time series forecasting methods across diverse datasets. Techniques such as ARIMA modeling, exponential smoothing, and STL decomposition were used to build and compare models. Data transformations, including Box-Cox, and stationarity checks were employed to ensure robust model fitting. Forecast accuracy was evaluated using metrics like RMSE and MAE, and residual diagnostics helped validate model assumptions. Clear visualizations supported the interpretation and communication of results.
