@@ -35,4 +35,4 @@ The project demonstrates that different time series models perform best under di
 - **STL decomposition:** Allowed clear separation of trend, seasonality, and remainder components, improving interpretability.  
 - **Box–Cox transformations and diagnostic checks:** Improved forecast stability and validated model assumptions.
 
-Overall, the study highlights the importance of model selection based on data characteristics, rigorous evaluation of residuals, and visualizations to support forecast interpretation. This project showcases practical applications of classical time series forecasting techniques across multiple domains.
+Overall, the study highlights the importance of model selection based on data characteristics, rigorous evaluation of residuals, and visualizations to support forecast interpretation. It also showcases practical applications of classical time series forecasting techniques across multiple domains.
